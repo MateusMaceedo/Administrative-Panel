@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/MateusMaceedo/Administrative-Panel/blob/main/src/assets/images/logo.png?raw=true" width="60" height="60"> <br>
+<img src="https://github.com/MateusMaceedo/Administrative-Panel/blob/main/src/assets/images/logo.png?raw=true"> <br>
 </h1>
 
 #### React Admin Dashboard with Multiple Themes
