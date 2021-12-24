@@ -1,16 +1,12 @@
-# React Admin Dashboard with Multiple Themes
+### React Admin Dashboard with Multiple Themes
 
     Build React Admin Dashboard with Multiple Themes | React Admin Panel CSS | ReactJS
 
-# Video
-
-    https://youtu.be/q8cabjyUTVY
-
-# Description
+### Description
 
     We will Build React Admin Dashboard with Multiple Themes | React Admin Panel CSS | ReactJS
 
-# Resource
+### Resource
 
     Google font: https://fonts.google.com/
 
@@ -18,7 +14,7 @@
 
     Images: https://unsplash.com/
 
-# Preview
+### Preview
 
 !["Build React Admin Dashboard with Multiple Themes | React Admin Panel CSS | ReactJS"](https://user-images.githubusercontent.com/67447840/124409084-d89ad200-dd71-11eb-86e1-4c9d0a5fe587.png "Build React Admin Dashboard with Multiple Themes | React Admin Panel CSS | ReactJS")
 
