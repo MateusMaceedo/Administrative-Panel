@@ -1,4 +1,6 @@
-![Imersão Full Stack && Full Cycle](https://github.com/MateusMaceedo/Administrative-Panel/blob/main/src/assets/images/logo.png?raw=true)
+<h1 align="center">
+<img src="https://github.com/MateusMaceedo/Administrative-Panel/blob/main/src/assets/images/logo.png?raw=true" width="60" height="60"> <br>
+</h1>
 
 #### React Admin Dashboard with Multiple Themes
 
