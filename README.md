@@ -1,1 +1,1 @@
-Administrative Panel with React
+Administrative Panel with React JS
